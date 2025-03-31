@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KacenaS
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning Django
+- 🌱 I just finished Django framework course
 - 📫 How to reach me simkova1995@outlook.com
 
 <!---
